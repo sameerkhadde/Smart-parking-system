@@ -45,7 +45,7 @@ The system continuously monitors parking slots and provides real-time informatio
 
 ### ▶️ Smart Parking System — Live Demonstration
 
-[![Watch Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](YOUR_VIDEO_LINK)
+[![Watch Project Demo](https://drive.google.com/file/d/1Cgmnhk_zkQSIvf502HS5McBMgJD7An0S/view?usp=drivesdk)](YOUR_VIDEO_LINK)
 
 **Click the thumbnail above to watch our project demonstration.**
 
