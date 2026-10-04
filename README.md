@@ -43,11 +43,13 @@ The system continuously monitors parking slots and provides real-time informatio
 
 <div align="center">
 
-### ▶️ Smart Parking System — Live Demonstration
+## 🎥 Project Demo Video
 
-[![Watch Project Demo](https://drive.google.com/file/d/1Cgmnhk_zkQSIvf502HS5McBMgJD7An0S/view?usp=drivesdk)](YOUR_VIDEO_LINK)
+### ▶️ Smart Parking System – Live Demonstration
 
-**Click the thumbnail above to watch our project demonstration.**
+[🔗 Watch the Project Demo Video](https://drive.google.com/file/d/1Cgmnhk_zkQSIvf502HS5McBMgJD7An0S/view?usp=drivesdk)
+
+> The video demonstrates the working of our Smart Parking System using Arduino UNO, IR sensors, servo motors, and LCD display.
 
 </div>
 
