@@ -39,6 +39,17 @@ The system continuously monitors parking slots and provides real-time informatio
 | 🧩 **Expandable** | Can be upgraded with IoT and mobile apps |
 
 ---
+## 🎥 Project Demo
+
+<div align="center">
+
+### ▶️ Smart Parking System — Live Demonstration
+
+[![Watch Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](YOUR_VIDEO_LINK)
+
+**Click the thumbnail above to watch our project demonstration.**
+
+</div>
 
 ## 🔧 Components Used
 
@@ -54,3 +65,4 @@ The system continuously monitors parking slots and provides real-time informatio
 │ 🔵 Breadboard                       │
 │ 🔵 Connecting Wires                 │
 └─────────────────────────────────────┘
+
